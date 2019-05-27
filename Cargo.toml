@@ -1,0 +1,7 @@
+[package]
+name = "nand2tetris-rust"
+version = "0.1.0"
+authors = ["notryanb@gmail.com <notryanb@gmail.com>"]
+edition = "2018"
+
+[dependencies]
